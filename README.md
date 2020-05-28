@@ -1,1 +1,1 @@
-# N_Reinas
+# Ejercicio de backtraking N_Reinas con python 
